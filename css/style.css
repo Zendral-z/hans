@@ -1,0 +1,92 @@
+
+
+.martop-custome {
+    margin-top: 60px;
+}
+
+.martop-about {
+    margin-top: 130px;
+}
+
+.heading-about {
+    color: white;
+    margin-top: 50px;
+    font-size: 48px;
+}
+
+.text-paragraf-about {
+    color: white;
+    font-size: 14px;
+    margin-top: 45px;
+}
+
+.head-card-category {
+    color: white;
+}
+
+.btn-contact {
+    width: 180px;
+    height: 50px;
+    background-color: black;
+    color: #fff;
+}
+
+.img-icon {
+    margin: 20px;
+}
+
+.contact-us {
+    height: 462px;
+}
+
+.background-img {
+    height: 401px;
+    background-image: url('../img/img-banner/About.png');
+}
+
+.background-img-skate {
+    background-image: url('../img/aset-bacground/img-background-skate.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 502px;
+}
+
+.background-img-fast-time {
+    background-image: url('../img/img-banner/banner-fast-time.png');
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-img-red-convers {
+    background-image: url('../img/aset-bacground/img-background-red-convers.png');
+    height: 460px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-custome{
+    background-color: black;
+    color:#fff;
+}
+
+.nav-item {
+    margin-left: 15px;
+}
+
+.jumbotron {
+    background-image: url('../img/aset-bacground/bacground-navbar.jpg');
+    height: 660px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.display-4{
+    padding-top: 20%;
+    font-size: xxx-large;
+}
+.text-min{
+    margin-bottom:-38px;
+}
+.text-row{
+    margin-top: 100px;
+}
